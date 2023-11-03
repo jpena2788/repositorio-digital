@@ -1,0 +1,651 @@
+[2023-10-28 14:47:10,683]  WARN {cps.config_sql:352} Log path /config/calibre-web.log not valid, falling back to default
+[2023-10-28 14:47:10,701]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:47:10,708]  WARN {cps.config_sql:388} invalidating configuration
+[2023-10-28 14:47:10,709]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:47:10,744]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 14:47:10,744]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 14:47:11,197]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 14:47:11,445]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 14:47:11,446]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 14:47:11,615]  INFO {cps.ub:911} github Blueprint Created
+[2023-10-28 14:47:11,618]  INFO {cps.ub:911} google Blueprint Created
+[2023-10-28 14:47:13,589]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 14:48:17,061] ERROR {cps.admin:1864} DB Location is not Valid, Please Enter Correct Path
+[2023-10-28 14:48:17,062]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:49:24,565]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:49:24,574]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:50:41,827]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:52:25,735]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 14:55:35,222]  INFO {cps.shelf:339} Shelf Ensayos created
+[2023-10-28 15:00:46,485]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:00:46,487]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:00:47,495]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:01:37,364]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:01:37,408]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:01:37,408]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:01:37,898]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:01:38,150]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:01:38,151]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:01:40,184]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:03:05,938]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:03:05,947]  INFO {cps.server:284} webserver stop (restart=True)
+[2023-10-28 15:03:05,948]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:03:06,955]  INFO {cps.server:265} Performing restart of Calibre-Web
+[2023-10-28 15:03:08,106]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:03:08,146]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:03:08,146]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:03:08,611]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:03:08,828]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:03:08,834]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:03:10,767]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:05:12,277]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:05:57,535]  INFO {cps.web:1207} Serving book: Redes sociales - Desconocido
+[2023-10-28 15:07:33,545] ERROR {cps.helper:664} Found an existing account for this Email address
+[2023-10-28 15:26:39,033]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:26:52,035]  INFO {cps.web:1207} Serving book: Libro test - Sargento Campoverde
+[2023-10-28 15:30:16,669]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:30:16,672]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:30:17,681]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:31:16,108]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:31:16,179]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:31:16,179]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:31:16,741]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:31:17,026]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:31:17,028]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:31:19,249]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:32:24,952] ERROR {cps:1414} Exception on /admin/dbconfig [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/lsiopy/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/app/calibre-web/cps/admin.py", line 97, in inner
+    return f(*args, **kwargs)
+  File "/app/calibre-web/cps/admin.py", line 237, in db_configuration
+    return _db_configuration_result()
+  File "/app/calibre-web/cps/admin.py", line 1870, in _db_configuration_result
+    return render_title_template("config_db.html",
+  File "/app/calibre-web/cps/render_template.py", line 114, in render_title_template
+    return render_template(instance=config.config_calibre_web_title, sidebar=sidebar, simple=simple,
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: config_db.html
+[2023-10-28 15:32:25,169] ERROR {cps:1414} Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1458, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1440, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/werkzeug/routing/map.py", line 655, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1341, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1281, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/app/calibre-web/cps/error_handler.py", line 35, in error_http
+    return render_template('http_error.html',
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: http_error.html
+[2023-10-28 15:32:29,452] ERROR {cps:1414} Exception on / [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/app/calibre-web/cps/usermanagement.py", line 35, in decorated_view
+    return login_required(func)(*args, **kwargs)
+  File "/lsiopy/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/app/calibre-web/cps/web.py", line 790, in index
+    return render_books_list("newest", sort_param, 1, page)
+  File "/app/calibre-web/cps/web.py", line 413, in render_books_list
+    return render_title_template('index.html', random=random, entries=entries, pagination=pagination,
+  File "/app/calibre-web/cps/render_template.py", line 114, in render_title_template
+    return render_template(instance=config.config_calibre_web_title, sidebar=sidebar, simple=simple,
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2023-10-28 15:32:29,589] ERROR {cps:1414} Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1458, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1440, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/werkzeug/routing/map.py", line 655, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1341, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1281, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/app/calibre-web/cps/error_handler.py", line 35, in error_http
+    return render_template('http_error.html',
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: http_error.html
+[2023-10-28 15:32:31,878] ERROR {cps:1414} Exception on / [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/app/calibre-web/cps/usermanagement.py", line 35, in decorated_view
+    return login_required(func)(*args, **kwargs)
+  File "/lsiopy/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/app/calibre-web/cps/web.py", line 790, in index
+    return render_books_list("newest", sort_param, 1, page)
+  File "/app/calibre-web/cps/web.py", line 413, in render_books_list
+    return render_title_template('index.html', random=random, entries=entries, pagination=pagination,
+  File "/app/calibre-web/cps/render_template.py", line 114, in render_title_template
+    return render_template(instance=config.config_calibre_web_title, sidebar=sidebar, simple=simple,
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2023-10-28 15:32:32,327] ERROR {cps:1414} Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1458, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1440, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/werkzeug/routing/map.py", line 655, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1341, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1281, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/app/calibre-web/cps/error_handler.py", line 35, in error_http
+    return render_template('http_error.html',
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: http_error.html
+[2023-10-28 15:32:42,233]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:32:42,235]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:32:42,237]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:33:36,092]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:33:36,127]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:33:36,127]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:33:36,529]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:33:36,738]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:33:36,739]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:33:38,737]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:33:49,137] ERROR {cps:1414} Exception on / [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/app/calibre-web/cps/usermanagement.py", line 35, in decorated_view
+    return login_required(func)(*args, **kwargs)
+  File "/lsiopy/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/app/calibre-web/cps/web.py", line 790, in index
+    return render_books_list("newest", sort_param, 1, page)
+  File "/app/calibre-web/cps/web.py", line 413, in render_books_list
+    return render_title_template('index.html', random=random, entries=entries, pagination=pagination,
+  File "/app/calibre-web/cps/render_template.py", line 114, in render_title_template
+    return render_template(instance=config.config_calibre_web_title, sidebar=sidebar, simple=simple,
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2023-10-28 15:33:49,299] ERROR {cps:1414} Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1458, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1440, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/werkzeug/routing/map.py", line 655, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1341, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1281, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/app/calibre-web/cps/error_handler.py", line 35, in error_http
+    return render_template('http_error.html',
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: http_error.html
+[2023-10-28 15:33:50,254] ERROR {cps:1414} Exception on / [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/app/calibre-web/cps/usermanagement.py", line 35, in decorated_view
+    return login_required(func)(*args, **kwargs)
+  File "/lsiopy/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/app/calibre-web/cps/web.py", line 790, in index
+    return render_books_list("newest", sort_param, 1, page)
+  File "/app/calibre-web/cps/web.py", line 413, in render_books_list
+    return render_title_template('index.html', random=random, entries=entries, pagination=pagination,
+  File "/app/calibre-web/cps/render_template.py", line 114, in render_title_template
+    return render_template(instance=config.config_calibre_web_title, sidebar=sidebar, simple=simple,
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2023-10-28 15:33:50,551] ERROR {cps:1414} Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1458, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1440, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/werkzeug/routing/map.py", line 655, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1341, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1281, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/app/calibre-web/cps/error_handler.py", line 35, in error_http
+    return render_template('http_error.html',
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: http_error.html
+[2023-10-28 15:34:32,793]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:34:32,797]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:34:32,798]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:35:18,441]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:35:18,480]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:35:18,481]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:35:18,939]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:35:19,151]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:35:19,152]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:35:21,254]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:35:50,783]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:35:50,784]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:35:51,787]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:36:36,796]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:36:36,841]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:36:36,841]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:36:37,261]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:36:37,450]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:36:37,451]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:36:39,472]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:36:51,379] ERROR {cps:1414} Exception on / [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/app/calibre-web/cps/usermanagement.py", line 35, in decorated_view
+    return login_required(func)(*args, **kwargs)
+  File "/lsiopy/lib/python3.10/site-packages/flask_login/utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+  File "/app/calibre-web/cps/web.py", line 790, in index
+    return render_books_list("newest", sort_param, 1, page)
+  File "/app/calibre-web/cps/web.py", line 413, in render_books_list
+    return render_title_template('index.html', random=random, entries=entries, pagination=pagination,
+  File "/app/calibre-web/cps/render_template.py", line 114, in render_title_template
+    return render_template(instance=config.config_calibre_web_title, sidebar=sidebar, simple=simple,
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+[2023-10-28 15:36:51,512] ERROR {cps:1414} Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1458, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1440, in raise_routing_exception
+    raise request.routing_exception  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/flask/ctx.py", line 353, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/lsiopy/lib/python3.10/site-packages/werkzeug/routing/map.py", line 655, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1341, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/lsiopy/lib/python3.10/site-packages/flask/app.py", line 1281, in handle_http_exception
+    return self.ensure_sync(handler)(e)
+  File "/app/calibre-web/cps/error_handler.py", line 35, in error_http
+    return render_template('http_error.html',
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "/lsiopy/lib/python3.10/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "/lsiopy/lib/python3.10/site-packages/flask/templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: http_error.html
+[2023-10-28 15:37:24,551]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:37:24,553]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:37:24,556]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:38:08,961]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:38:08,999]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:38:08,999]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:38:09,436]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:38:09,676]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:38:09,677]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:38:11,566]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:45:09,042]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:45:09,048]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:45:10,058]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:45:57,450]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:45:57,487]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:45:57,487]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:45:57,936]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:45:58,145]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:45:58,146]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:46:00,164]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:46:19,095] ERROR {flask-limiter:997} Skipping limit: 3 per 1 minute. Empty value found in parameters.
+[2023-10-28 15:46:19,095] ERROR {flask-limiter:997} Skipping limit: 40 per 1 day. Empty value found in parameters.
+[2023-10-28 15:46:19,097]  WARN {cps.web:1409} Login failed for user "" IP-address: ::ffff:157.100.112.73
+[2023-10-28 15:46:56,215] ERROR {flask-limiter:997} Skipping limit: 3 per 1 minute. Empty value found in parameters.
+[2023-10-28 15:46:56,216] ERROR {flask-limiter:997} Skipping limit: 40 per 1 day. Empty value found in parameters.
+[2023-10-28 15:46:56,218]  WARN {cps.web:1409} Login failed for user "" IP-address: ::ffff:157.100.112.73
+[2023-10-28 15:47:04,916] ERROR {flask-limiter:997} Skipping limit: 3 per 1 minute. Empty value found in parameters.
+[2023-10-28 15:47:04,916] ERROR {flask-limiter:997} Skipping limit: 40 per 1 day. Empty value found in parameters.
+[2023-10-28 15:47:04,917]  WARN {cps.web:1409} Login failed for user "" IP-address: ::ffff:157.100.112.73
+[2023-10-28 15:48:21,322]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-10-28 15:48:21,325]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-10-28 15:48:22,331]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-10-28 15:49:08,685]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-10-28 15:49:08,726]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-10-28 15:49:08,726]  INFO {cps:177} Starting Calibre Web...
+[2023-10-28 15:49:09,177]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-10-28 15:49:09,391]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-10-28 15:49:09,392]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-10-28 15:49:11,268]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-10-28 15:49:11,819] ERROR {flask-limiter:997} Skipping limit: 3 per 1 minute. Empty value found in parameters.
+[2023-10-28 15:49:11,819] ERROR {flask-limiter:997} Skipping limit: 40 per 1 day. Empty value found in parameters.
+[2023-10-28 15:49:11,821]  WARN {cps.web:1409} Login failed for user "" IP-address: ::ffff:157.100.112.73
+[2023-10-28 16:07:30,748] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f543926b940 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:128.199.64.100', 56082, 0, 0)) Invalid HTTP method: 'SSH-2.0-OpenSSH\r\n'
+[2023-10-28 16:35:46,071] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54390d8e20 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43539, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03\x8d7\x91¬vÖ!ã_÷QÛR\x03/pë\r²ÚBt?%Ïil±r-h\x0f 9û\x13\xadÅpç\x85æ\rö^\x1bËæ æj\x974<\x16t\x02Ðd\x9ccð\x13ø\x9c\x00 \x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00ÿ\x01\x00\x00\x86\x00\x0b\x00\x04\x03\x00\x01\x02\x00\n'
+[2023-10-28 16:35:46,175] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54390d8e20 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43558, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03*ñn\x7fËõH\x81J*\x8dG\x11\x93^Ð}Ï8T\x80\x18wM\x913\x82\x1f_Ã·\x04 Z\x0c\x19{½DgÝ\x07`ÅÓå¦úº\x87\\âýD\x105wùÉÙ=8pÒ\t\x00 \x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00ÿ\x01\x00\x00\x86\x00\x0b\x00\x04\x03\x00\x01\x02\x00\n'
+[2023-10-28 16:35:46,270] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54390d8e20 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43541, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00ó\x01\x00\x00ï\x03\x03\x8aÖï\x83¤¿\x18AÊA9ÙAJ\\ëß\x0c´½\x0bã:Qy\x81-bHÈVw \x00ä|Üz\x0bp\x14Ä\xa0Â*æ¨Ôá\x0c\x15\x07Ë\x1ar\x132\x99´!î6ÓÃe\x00 \x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00ÿ\x01\x00\x00\x86\x00\x0b\x00\x04\x03\x00\x01\x02\x00\n'
+[2023-10-28 16:35:46,325] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54390d8e20 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43560, 0, 0)) Expected GET method; Got command='\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03%¿Ó×+8&\x06\\·P\\£'; path='0\x9bY\x0eàö\x82=ÿ]\x92'; raw='\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03%¿Ó×+8&\x06\\·P\\£\x1d0\x9bY\x0eàö\x82=ÿ]\x92\n'
+[2023-10-28 16:35:46,517] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54390d8e20 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43543, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03·w"ßo\x12p\x8f\x0c1\tÕ\x10\x0fk@\x07¸·NÀB\x8bL3\xadQEÛ<°¢ þtcV\x19\x8b\x8b\x15®í\x89\'\x85ú®ª=\xa0\x8a_M4"A\x9f\x7f ©ö\x00_¤\x00 \n'
+[2023-10-28 16:36:07,151] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5448691b40 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43638, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x02\x1a\x01\x00\x02\x16\x03\x03Ã|£F\x1f£UNvOÔ\x87Üè\x98ùò§\x01á\x07b]nM\x84Y\rñf:Ó KÒ\x85Gò/\x90}LBò%Gät\x17ÃíEl\x92r\rÀ\x19á\n'
+[2023-10-28 16:36:07,342] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5448691b40 object, fd=13, family=10, type=1, proto=0>: (from ('::ffff:157.100.104.58', 43549, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x02:\x01\x00\x026\x03\x03D,²´\x0b\x10gZ÷\x84u\x0b\x1aÃ\\yí\x7fmØe\x1aJð³e\x82\x11\x1bñ+^ Jøw(n*Y,ÁêöÊ\x18\x11ù\x16¡¼t_\x18,\tù\xa0Ù\x9e;\x181E\x82\x00 zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01Í::\x00\x00ÿ\x01\x00\x01\x00\x00\x12\x00\x00Di\x00\x05\x00\x03\x02h2\x00-\x00\x02\x01\x01\x00\n'
+[2023-10-28 21:35:48,788] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f544abee800 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:71.6.134.234', 44092, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03à\x1cVî ¼\'è_õÄw\x1eJm9\xa0ÊÔû\x0fÏÔÎ²U¦\xa0*ÊìÁ \x9a\x9e%\x80·"4)\x1fi\x88¯O±B,B\x06\x9anÎ\x86\x980\x1d\x01ÖßçÎFõ\x00&Ì¨Ì©À/À0À+À,À\x13À\tÀ\x14À\n'
+[2023-10-28 23:27:08,890] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:205.210.31.242', 60340, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Ø©X_\x1b\x1cO\x9eNô\x8ft\x16®I°{Ë«\xa0üÁ*`\xadüÈ\x8d\x12Û±. ¯¢¹=½7&.êÞö\x9b\x97Äù\x06Ä\x15\x80;\x9e(üWÝ#\x9bQ\x00<¢\x83\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n'
+[2023-10-28 23:27:09,158] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:205.210.31.242', 60352, 0, 0)) Invalid http version: "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x032ëÁà0\x8ePo´õ\x9d\x80X\x9e¹»·\x1bEÔ4\x01\x9aÇ=\x86Q|úR4\x0c\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\tÀ(À$À\x14À\n"
+[2023-10-29 04:10:00,006]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-10-30 04:10:00 UTC)" (scheduled at 2023-10-29 04:10:00+00:00)
+[2023-10-29 04:10:00,012]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-10-30 04:10:00 UTC)" executed successfully
+[2023-10-29 06:47:52,932] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:176.111.174.205', 64635, 0, 0)) Invalid HTTP method: '\x16\x03\x02\x01o\x01\x00\x01k\x03\x02RHÅ\x1a#÷:Nßâ´\x82/ÿ\tT\x9f§Äy°hÆ\x13\x8c¤\x1c="á\x1a\x98 \x84´,\x85¯nãY»bhlÿ(=\':©\x82ÙoÈ¢×\x93\x98´ï\x80å¹\x90\x00(À\n'
+[2023-10-29 12:34:27,471] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:192.241.193.126', 53248, 0, 0)) Invalid HTTP method: 'MGLNDD_154.53.37.103_8083\n'
+[2023-10-29 16:25:19,105] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:80.82.77.202', 60000, 0, 0)) Invalid HTTP method: '\x16\x03\x02\x01o\x01\x00\x01k\x03\x02RHÅ\x1a#÷:Nßâ´\x82/ÿ\tT\x9f§Äy°hÆ\x13\x8c¤\x1c="á\x1a\x98 \x84´,\x85¯nãY»bhlÿ(=\':©\x82ÙoÈ¢×\x93\x98´ï\x80å¹\x90\x00(À\n'
+[2023-10-30 04:10:00,004]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-10-31 04:10:00 UTC)" (scheduled at 2023-10-30 04:10:00+00:00)
+[2023-10-30 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-10-31 04:10:00 UTC)" executed successfully
+[2023-10-30 07:55:10,036] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391ad120 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:205.210.31.216', 62440, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03ê\x82\x9cà?Qò\x86\x91\n'
+[2023-10-30 07:55:10,305] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391ad120 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:205.210.31.216', 62450, 0, 0)) Invalid http version: "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x0313ËJ\x10¨\x87\x1fÇå7\x17\x8byØ\x8fÛÃº»Ä<^\x87\x94YXQ\x92-¼Ø\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\tÀ(À$À\x14À\n"
+[2023-10-30 12:29:42,703] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:192.155.90.220', 53150, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03àg&{PkÅ9Æ\x16B«Îi8\x18\x1a\x98\x02h*7\x15e\x9c4¹Àªå\x06\x00\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\tÀ\x14À\n'
+[2023-10-30 16:42:14,795] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:107.170.240.25', 55990, 0, 0)) Invalid HTTP method: 'MGLNDD_154.53.37.103_8083\n'
+[2023-10-30 20:23:44,480] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.218', 62422, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x98ÞÁ\x03\x86¾qÙÖvæ³õÊl\xa0tdu\xa0×hp>\x03?WzLÅÒO l}\x10\x89\x94@!\x85\x85Ûè@[£aÙÔ\x85\x9b\x01bÐAJU\x9d#Cï\x07\x9aÙ\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n'
+[2023-10-30 20:23:44,649] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f5439153520 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.218', 62426, 0, 0)) Invalid HTTP method: "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03qJäé\x12ÇD\x1cQ\x8eâ?ÂxíF\x8eÆáèO\x87@ÐÆ\x85PÂÙyÀ\r\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\tÀ(À$À\x14À\n"
+[2023-10-31 02:30:29,691] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:71.6.135.131', 39714, 0, 0)) Invalid http version: '\x16\x03\x01\x00ô\x01\x00\x00ð\x03\x03Ó)îW¬\x1e\x05\x11ÍÎ\x07\x03~¹¡*Ô¹9\x19a\x9f¯\x96\x8c\x19¦Ö\xa0-Ãw\x00\x00rÀ0À,À(À$À\x14À\n'
+[2023-10-31 04:10:00,004]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-01 04:10:00 UTC)" (scheduled at 2023-10-31 04:10:00+00:00)
+[2023-10-31 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-01 04:10:00 UTC)" executed successfully
+[2023-10-31 14:33:59,787] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54388b4160 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:180.149.125.171', 28171, 0, 0)) Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03j.õí¬m&a`\x86I\x17i&L\x81\x9dúÇ\x98Î\x8bZ\x1c£ùwäó\x98\x868\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+[2023-11-01 04:10:00,004]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-02 04:10:00 UTC)" (scheduled at 2023-11-01 04:10:00+00:00)
+[2023-11-01 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-02 04:10:00 UTC)" executed successfully
+[2023-11-01 08:06:18,999] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:162.243.147.18', 54182, 0, 0)) Invalid HTTP method: 'MGLNDD_154.53.37.103_8083\n'
+[2023-11-01 08:15:49,180] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391ad540 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.163', 60868, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x9a%\x18Oª\x8c@»\x04ª\x1e@µÀÄÓÍ\x05ÆÁ\x84øÍF!j³\x06pa\xa0û \x01\x96\x9cB-\x1b\x96ìfý\x14\x8b7ùÑ ð\x98õ;ðñÓ\x0eû\x19\t\x14è\xa0\x08(\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n'
+[2023-11-01 08:15:49,346] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391ad540 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.163', 60870, 0, 0)) Invalid http version: "\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03òÐ Üêùì¢fz\x9a%Î³\x01î\x0fèI´\x819\x1973½^Ð¸A$\x9b\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\tÀ(À$À\x14À\n"
+[2023-11-01 20:52:18,920] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:205.210.31.231', 61872, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Y[\x9c~\x14hÄ[¸.ÛÑ\xad\x9bO¤ðµ\x18\x90\x07©0a¤ê\x14Òó\x1c\x05E mò\x80/Ò\x03Ñ]\x96°Æc;\x81\x88\x0c¥\x8d[SiÔ\x80¼\x1a\x8eëÎiNêÍ\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n'
+[2023-11-01 20:52:19,188] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:205.210.31.231', 61886, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Kï\n'
+[2023-11-02 04:10:00,004]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-03 04:10:00 UTC)" (scheduled at 2023-11-02 04:10:00+00:00)
+[2023-11-02 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-03 04:10:00 UTC)" executed successfully
+[2023-11-02 16:53:33,526] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:107.170.242.19', 36454, 0, 0)) Invalid HTTP method: 'MGLNDD_154.53.37.103_8083\n'
+[2023-11-03 04:10:00,004]  INFO {apscheduler.executors.default:123} Running job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-04 04:10:00 UTC)" (scheduled at 2023-11-03 04:10:00+00:00)
+[2023-11-03 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-04 04:10:00 UTC)" executed successfully
+[2023-11-03 08:21:30,922] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.65', 58736, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03¸Ø¥Â\x19¼ý¿ò§^.\x14µ +\x07+tî"z\x07\\?ò½£¹(\x12\x9b 0\x82Ì¹ï¶í>õõ´\x93³%_*\x1cÊf\x04~\x0cex)\x882\x9a\x80|Â¤\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n'
+[2023-11-03 08:21:31,329] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.65', 58744, 0, 0)) Expected GET method; Got command='\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Â°\x9a"ßéeÍ\x88µ#=yT-w\x80Rq(\x9fb\x9d\x95kóÐ\x02\x10»¯ë\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À\'À#À\x13À'; path='À(À$À\x14À'; raw='\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Â°\x9a"ßéeÍ\x88µ#=yT-w\x80Rq(\x9fb\x9d\x95kóÐ\x02\x10»¯ë\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À\'À#À\x13À\tÀ(À$À\x14À\n'

@@ -649,6 +649,7 @@ jinja2.exceptions.TemplateNotFound: http_error.html
 [2023-11-03 04:10:00,009]  INFO {apscheduler.executors.default:144} Job "end scheduled task (trigger: cron[hour='4', minute='10'], next run at: 2023-11-04 04:10:00 UTC)" executed successfully
 [2023-11-03 08:21:30,922] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.65', 58736, 0, 0)) Invalid HTTP method: '\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03¸Ø¥Â\x19¼ý¿ò§^.\x14µ +\x07+tî"z\x07\\?ò½£¹(\x12\x9b 0\x82Ì¹ï¶í>õõ´\x93³%_*\x1cÊf\x04~\x0cex)\x882\x9a\x80|Â¤\x00&À+À/À,À0Ì©Ì¨À\tÀ\x13À\n'
 [2023-11-03 08:21:31,329] ERROR {cps.server:1349} <gevent._socket3.socket at 0x7f54391add80 object, fd=10, family=10, type=1, proto=0>: (from ('::ffff:198.235.24.65', 58744, 0, 0)) Expected GET method; Got command='\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Â°\x9a"ßéeÍ\x88µ#=yT-w\x80Rq(\x9fb\x9d\x95kóÐ\x02\x10»¯ë\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À\'À#À\x13À'; path='À(À$À\x14À'; raw='\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03Â°\x9a"ßéeÍ\x88µ#=yT-w\x80Rq(\x9fb\x9d\x95kóÐ\x02\x10»¯ë\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À\'À#À\x13À\tÀ(À$À\x14À\n'
+<<<<<<< HEAD
 [2023-12-26 16:09:01,346]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
 [2023-12-26 16:09:01,611]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
 [2023-12-26 16:09:01,611]  INFO {cps:177} Starting Calibre Web...
@@ -679,3 +680,94 @@ jinja2.exceptions.TemplateNotFound: http_error.html
 [2023-12-27 00:13:15,457]  INFO {apscheduler.scheduler:181} Scheduler started
 [2023-12-27 00:13:15,459]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
 [2023-12-27 00:13:17,509]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+=======
+[2023-12-24 15:07:19,679]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-24 15:07:19,708]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-24 15:07:19,708]  INFO {cps:177} Starting Calibre Web...
+[2023-12-24 15:07:20,025]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-24 15:07:20,223]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-24 15:07:20,224]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-24 15:07:21,648]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 22:14:57,803]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-25 22:14:57,803]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-25 22:14:58,932]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-25 22:15:22,588]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 22:15:23,020]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-25 22:15:23,020]  INFO {cps:177} Starting Calibre Web...
+[2023-12-25 22:15:24,833]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-25 22:15:26,573]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-25 22:15:26,574]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-25 22:15:32,184]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 22:33:04,847]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 22:39:11,200]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-25 22:39:11,200]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-25 22:39:12,203]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-25 22:39:30,369]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 22:39:30,405]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-25 22:39:30,405]  INFO {cps:177} Starting Calibre Web...
+[2023-12-25 22:39:31,600]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-25 22:39:32,110]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-25 22:39:32,111]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-25 22:39:35,555]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 22:47:48,525]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-25 22:47:48,526]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-25 22:47:49,529]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-25 22:48:05,167]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 22:48:05,197]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-25 22:48:05,197]  INFO {cps:177} Starting Calibre Web...
+[2023-12-25 22:48:05,637]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-25 22:48:05,837]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-25 22:48:05,838]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-25 22:48:07,825]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 22:51:52,509]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-25 22:51:52,536]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-25 22:51:52,537]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-25 22:52:08,510]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 22:52:08,539]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-25 22:52:08,539]  INFO {cps:177} Starting Calibre Web...
+[2023-12-25 22:52:08,862]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-25 22:52:09,056]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-25 22:52:09,057]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-25 22:52:10,747]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 23:12:40,934]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-25 23:12:40,942]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-25 23:12:41,945]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-25 23:13:01,250]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 23:13:01,666]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-25 23:13:01,666]  INFO {cps:177} Starting Calibre Web...
+[2023-12-25 23:13:03,592]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-25 23:13:04,389]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-25 23:13:04,391]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-25 23:13:08,259]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 23:43:46,341]  INFO {cps.ub:911} Book 3 archive bit toggled
+[2023-12-25 23:43:53,281]  INFO {cps.ub:911} Book 2 archive bit toggled
+[2023-12-25 23:43:58,716]  INFO {cps.ub:911} Book 3 archive bit toggled
+[2023-12-25 23:43:59,580]  INFO {cps.ub:911} Book 3 archive bit toggled
+[2023-12-25 23:47:26,860]  INFO {cps.server:284} webserver stop (restart=False)
+[2023-12-25 23:47:26,861]  INFO {apscheduler.scheduler:212} Scheduler has been shut down
+[2023-12-25 23:47:27,864]  INFO {cps.server:262} Performing shutdown of Calibre-Web
+[2023-12-25 23:47:50,099]  WARN {cps.config_sql:352} Log path  not valid, falling back to default
+[2023-12-25 23:47:50,492]  INFO {cps:168} *** "pytz" version does not meet the requirements. Should: available, Found: Not available, please consider installing required version ***
+[2023-12-25 23:47:50,492]  INFO {cps:177} Starting Calibre Web...
+[2023-12-25 23:47:52,295]  WARN {py.warnings:109} /lsiopy/lib/python3.10/site-packages/flask_limiter/extension.py:308: UserWarning: Using the in-memory storage for tracking rate limits as no storage was explicitly specified. This is not recommended for production use. See: https://flask-limiter.readthedocs.io#configuring-a-storage-backend for documentation about configuring the storage backend.
+  warnings.warn(
+
+[2023-12-25 23:47:53,081]  INFO {apscheduler.scheduler:181} Scheduler started
+[2023-12-25 23:47:53,082]  INFO {apscheduler.scheduler:895} Added job "end scheduled task" to job store "default"
+[2023-12-25 23:47:56,668]  INFO {cps.server:207} Starting Gevent server on [::]:8083
+[2023-12-25 23:48:59,606]  INFO {cps.shelf:339} Shelf MANUALES created
+[2023-12-25 23:49:10,234]  INFO {cps.shelf:339} Shelf REGLAMENTOS created
+[2023-12-25 23:53:43,881]  INFO {cps.shelf:339} Shelf AYUDAS AL DOCENTE created
+>>>>>>> 202799e92eaa8bd076866429dd3656849062d990
